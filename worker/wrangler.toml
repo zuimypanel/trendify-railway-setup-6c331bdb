@@ -1,0 +1,8 @@
+name = "trendify-worker"
+
+main = "src/index.js"
+
+compatibility_date = "2026-09-07"
+
+[vars]
+RAILWAY_URL = "https://trendify-production-c8b7.up.railway.app"
